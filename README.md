@@ -39,4 +39,5 @@ Sol menuden oluşturulan "Spotify Listem" e tıklanır
 "Spotify Listem" çalma listesi silinir 
 
 Çalma listesinin silindiğini kontrol edilir 
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
