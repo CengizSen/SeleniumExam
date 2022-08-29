@@ -1,3 +1,4 @@
+![software-software-development](https://user-images.githubusercontent.com/58827136/187160863-d1ad2436-77a5-4b39-9daa-4dddbff39b33.gif)
 # SeleniumExam
 Java dilinde Maven Page Object Model yapısıyla Selenium kütüphanesini kullanarak ,
 
@@ -40,4 +41,4 @@ Sol menuden oluşturulan "Spotify Listem" e tıklanır
 
 Çalma listesinin silindiğini kontrol edilir 
 
-![software-software-development](https://user-images.githubusercontent.com/58827136/187160863-d1ad2436-77a5-4b39-9daa-4dddbff39b33.gif)
+
